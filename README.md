@@ -1,0 +1,2 @@
+# powersell
+win terminal
